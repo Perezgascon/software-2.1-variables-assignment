@@ -1,4 +1,4 @@
-# Insert Lesson Title
+# Introduction to JS and JS Variables
 
 ## Dependencies
 
@@ -10,10 +10,15 @@ Refer to the following markdown file for the respective sections of the class:
 ## Lesson Objectives
 
 Learners will understand:
-- Insert the knowledge to be acquired
+- What JavaScript is and what it is used for
+- What variables and constants are
+- What datatypes are used by JS
 
 Learners will be able to:
-- Insert the skillset to be acquired
+- Link JS files to HTML files
+- Use Chrome Developer Tool to access the console
+- Create JavaScript variables and constants 
+- Perform basic operations using JavaScript
 
 
 ## Lesson Plan

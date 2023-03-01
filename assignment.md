@@ -2,7 +2,7 @@
 
 ### Brief
 
-Enter instruction for assignment here.
+Instructions for the assignment are in the assignment folder's index.js. Write the necessary code needed to solve the requirement.
 
 ### Submission 
 
@@ -15,6 +15,7 @@ _Example of Referencing Classmate_
 
 Referenced the code block below.
 ```js
+    //This code is referenced from <source>
     function printMe(){
         console.log("I am a reference example");
     }
